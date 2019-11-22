@@ -1,2 +1,3 @@
 # demo_curso_git
-Demo repository
+this is a test repository
+
