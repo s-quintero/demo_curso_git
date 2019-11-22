@@ -1,3 +1,3 @@
-# demo_curso_git
+# Repo_de_prueba
 this is a test repository
 
